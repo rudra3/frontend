@@ -1,5 +1,5 @@
 # hello rudra this side
 
-under frontend readme is a file
+under frontend README is the  file
 
 ## full hritik rudra
